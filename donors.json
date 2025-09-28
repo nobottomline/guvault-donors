@@ -5,7 +5,7 @@
     "amount": 1000,
     "date": "19.09.1967",
     "platform": "DonationAlerts",
-    "verified": true
+    "verified": false
   },
   {
     "id": 2,
