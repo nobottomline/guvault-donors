@@ -14,29 +14,5 @@
     "date": "67.67.6767",
     "platform": "Boosty",
     "verified": true
-  },
-  {
-    "id": 3,
-    "name": "Анонимный пользователь",
-    "amount": 2500,
-    "date": "5 дней назад",
-    "platform": "PayPal",
-    "verified": true
-  },
-  {
-    "id": 4,
-    "name": "Мария С.",
-    "amount": 100,
-    "date": "1 неделю назад",
-    "platform": "ЮMoney",
-    "verified": true
-  },
-  {
-    "id": 5,
-    "name": "Анонимный пользователь",
-    "amount": 1000,
-    "date": "1 неделю назад",
-    "platform": "Ko-fi",
-    "verified": true
   }
 ]
