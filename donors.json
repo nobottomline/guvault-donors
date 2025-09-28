@@ -22,5 +22,605 @@
     "date": "25.09.2025",
     "platform": "sex",
     "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Alex Storm",
+    "amount": 300,
+    "date": "12.03.2023",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "Luna Ray",
+    "amount": 1500,
+    "date": "05.11.2022",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "Max Power",
+    "amount": 250,
+    "date": "30.01.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "Zoe Night",
+    "amount": 999,
+    "date": "14.02.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "Iron Fist",
+    "amount": 420,
+    "date": "20.04.2024",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 9,
+    "name": "Shadow Wolf",
+    "amount": 666,
+    "date": "31.10.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 10,
+    "name": "Crystal Dawn",
+    "amount": 1200,
+    "date": "01.06.2022",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 11,
+    "name": "Neo Matrix",
+    "amount": 800,
+    "date": "11.11.2023",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 12,
+    "name": "Viper Fang",
+    "amount": 333,
+    "date": "13.13.1313",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 13,
+    "name": "Star Gazer",
+    "amount": 555,
+    "date": "22.08.2024",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 14,
+    "name": "Mystic Owl",
+    "amount": 700,
+    "date": "07.07.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 15,
+    "name": "Blaze Fire",
+    "amount": 900,
+    "date": "19.12.2022",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 16,
+    "name": "Raven Dark",
+    "amount": 400,
+    "date": "28.02.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 17,
+    "name": "Phoenix Rise",
+    "amount": 1100,
+    "date": "03.09.2023",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 18,
+    "name": "Cyber Punk",
+    "amount": 222,
+    "date": "21.06.2024",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 19,
+    "name": "Ghost Rider",
+    "amount": 888,
+    "date": "31.12.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 20,
+    "name": "Aurora Light",
+    "amount": 600,
+    "date": "15.04.2022",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 21,
+    "name": "Dragon Soul",
+    "amount": 1300,
+    "date": "02.03.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 22,
+    "name": "Silent Ninja",
+    "amount": 275,
+    "date": "17.07.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 23,
+    "name": "Electric Dream",
+    "amount": 520,
+    "date": "29.11.2022",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 24,
+    "name": "Velvet Moon",
+    "amount": 950,
+    "date": "14.05.2024",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 25,
+    "name": "Steel Heart",
+    "amount": 720,
+    "date": "08.10.2023",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 26,
+    "name": "Ocean Wave",
+    "amount": 440,
+    "date": "23.01.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 27,
+    "name": "Thunder Bolt",
+    "amount": 1050,
+    "date": "06.12.2022",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 28,
+    "name": "Frost Bite",
+    "amount": 360,
+    "date": "19.02.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 29,
+    "name": "Golden Sun",
+    "amount": 850,
+    "date": "30.07.2024",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 30,
+    "name": "Wild Spirit",
+    "amount": 630,
+    "date": "11.08.2023",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 31,
+    "name": "Midnight Star",
+    "amount": 1150,
+    "date": "04.04.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 32,
+    "name": "Crimson Tide",
+    "amount": 290,
+    "date": "25.05.2022",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 33,
+    "name": "Emerald Eye",
+    "amount": 740,
+    "date": "16.09.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 34,
+    "name": "Silver Fox",
+    "amount": 510,
+    "date": "07.01.2024",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 35,
+    "name": "Ruby Flame",
+    "amount": 920,
+    "date": "22.03.2023",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 36,
+    "name": "Cosmic Ray",
+    "amount": 680,
+    "date": "13.06.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 37,
+    "name": "Desert Wind",
+    "amount": 390,
+    "date": "28.10.2022",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 38,
+    "name": "Jungle King",
+    "amount": 820,
+    "date": "09.11.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 39,
+    "name": "Frozen Lake",
+    "amount": 570,
+    "date": "18.12.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 40,
+    "name": "Solar Flare",
+    "amount": 1020,
+    "date": "05.02.2024",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 41,
+    "name": "Neon Lights",
+    "amount": 460,
+    "date": "27.04.2023",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 42,
+    "name": "Quantum Leap",
+    "amount": 760,
+    "date": "10.07.2024",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 43,
+    "name": "Mystic River",
+    "amount": 330,
+    "date": "15.08.2022",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 44,
+    "name": "Black Hole",
+    "amount": 940,
+    "date": "21.09.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 45,
+    "name": "White Tiger",
+    "amount": 610,
+    "date": "03.01.2024",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 46,
+    "name": "Blue Ocean",
+    "amount": 870,
+    "date": "12.03.2023",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 47,
+    "name": "Red Dragon",
+    "amount": 540,
+    "date": "24.05.2024",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 48,
+    "name": "Green Forest",
+    "amount": 280,
+    "date": "06.06.2022",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 49,
+    "name": "Purple Rain",
+    "amount": 790,
+    "date": "17.07.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 50,
+    "name": "Orange Sky",
+    "amount": 410,
+    "date": "29.08.2024",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 51,
+    "name": "Pink Cloud",
+    "amount": 650,
+    "date": "11.10.2023",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 52,
+    "name": "Brown Bear",
+    "amount": 310,
+    "date": "23.11.2022",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 53,
+    "name": "Yellow Sun",
+    "amount": 890,
+    "date": "04.12.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 54,
+    "name": "Gray Wolf",
+    "amount": 560,
+    "date": "16.01.2024",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 55,
+    "name": "Indigo Night",
+    "amount": 730,
+    "date": "28.02.2023",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 56,
+    "name": "Violet Dream",
+    "amount": 480,
+    "date": "10.04.2024",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 57,
+    "name": "Crimson Rose",
+    "amount": 960,
+    "date": "22.05.2022",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 58,
+    "name": "Azure Sky",
+    "amount": 620,
+    "date": "03.07.2023",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 59,
+    "name": "Amber Glow",
+    "amount": 370,
+    "date": "15.08.2024",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 60,
+    "name": "Ivory Tower",
+    "amount": 830,
+    "date": "27.09.2023",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 61,
+    "name": "Obsidian Stone",
+    "amount": 590,
+    "date": "08.11.2022",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 62,
+    "name": "Pearl Moon",
+    "amount": 710,
+    "date": "20.12.2023",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 63,
+    "name": "Sapphire Sea",
+    "amount": 430,
+    "date": "01.01.2024",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 64,
+    "name": "Topaz Fire",
+    "amount": 910,
+    "date": "13.02.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 65,
+    "name": "Jade Garden",
+    "amount": 670,
+    "date": "25.03.2024",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 66,
+    "name": "Onyx Shadow",
+    "amount": 350,
+    "date": "07.05.2022",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 67,
+    "name": "Opal Light",
+    "amount": 860,
+    "date": "19.06.2023",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 68,
+    "name": "Ruby Heart",
+    "amount": 530,
+    "date": "31.07.2024",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 69,
+    "name": "Emerald Forest",
+    "amount": 780,
+    "date": "12.09.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 70,
+    "name": "Diamond Star",
+    "amount": 1080,
+    "date": "24.10.2022",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 71,
+    "name": "Platinum Soul",
+    "amount": 470,
+    "date": "05.12.2023",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 72,
+    "name": "Gold Rush",
+    "amount": 930,
+    "date": "17.01.2024",
+    "platform": "Twitch",
+    "verified": true
+  },
+  {
+    "id": 73,
+    "name": "Silver Lining",
+    "amount": 640,
+    "date": "29.02.2024",
+    "platform": "Boosty",
+    "verified": true
+  },
+  {
+    "id": 74,
+    "name": "Bronze Age",
+    "amount": 260,
+    "date": "11.04.2023",
+    "platform": "sex",
+    "verified": true
+  },
+  {
+    "id": 75,
+    "name": "Copper Wire",
+    "amount": 580,
+    "date": "23.05.2024",
+    "platform": "YouTube",
+    "verified": true
+  },
+  {
+    "id": 76,
+    "name": "Iron Will",
+    "amount": 750,
+    "date": "04.07.2022",
+    "platform": "DonationAlerts",
+    "verified": true
+  },
+  {
+    "id": 77,
+    "name": "Steel Mind",
+    "amount": 490,
+    "date": "16.08.2023",
+    "platform": "Patreon",
+    "verified": true
+  },
+  {
+    "id": 78,
+    "name": "Titan Force",
+    "amount": 1010,
+    "date": "28.09.2024",
+    "platform": "sex",
+    "verified": true
   }
 ]
