@@ -32,7 +32,8 @@
     "amount": 300,
     "date": "12.03.2023",
     "platform": "Twitch",
-    "verified": true
+    "verified": true,
+    "avatar":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif"
   },
   {
     "id": 5,
